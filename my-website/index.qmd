@@ -1,0 +1,53 @@
+---
+title: "Zia Yan Portfolio"
+---
+
+
+
+
+# Welcome 👋
+
+Hi, I'm Zia Yan, a Master of Business Analytics student at UC San Diego with a strong background in data analytics, machine learning, and business strategy.
+
+## About Me
+- MS in Business Analytics (UCSD, GPA: 3.6)
+- MS in Public Policy (UCSD, GPA: 3.8)
+- Passionate about applying data-driven solutions to real-world business problems
+- Experienced in predictive modeling, time series analysis, and causal inference
+
+## Technical Skills
+- Programming: Python, SQL, R, C++, MATLAB
+- Tools: Power BI, Tableau, Azure, Spark, Databricks, TensorFlow, PyTorch
+- Methods: A/B Testing, Machine Learning, Time Series Forecasting, Anomaly Detection
+
+## Projects
+
+### 🔗 GitHub Portfolio
+👉 Visit my full project repository:  
+https://github.com/ziayan-analytics
+
+---
+
+### 📊 Recommendation System (LightGCN)
+Built a Top-K recommendation system with 20% improvement in Recall@10 and NDCG@10  
+🔗 https://github.com/ziayan-analytics
+
+---
+
+### 📈 Predictive Maintenance (LSTM)
+Reduced downtime by 30% and improved OEE by 24% for an EV manufacturing client
+
+---
+
+### 📦 Demand Forecasting (ARIMA & Prophet)
+Improved inventory turnover by 26% through optimized replenishment strategy
+
+[👉 View My GitHub](https://github.com/ziayan-analytics)
+
+## Contact
+- Email: ziy048@ucsd.edu
+- LinkedIn: https://www.linkedin.com/in/zixiaoyan
+- GitHub: https://github.com/ziayan-analytics
+
+## Note
+This page is customized beyond the class example.

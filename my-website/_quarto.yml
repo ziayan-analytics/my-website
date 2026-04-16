@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Zia Yan Portfolio"
+
+  sidebar:
+    style: "docked"
+    search: false
+    contents:
+      - text: "Home"
+        file: index.qmd
+      - text: "About"
+        file: about.qmd
+
+    # ⭐ 关键部分（头像 + 按钮）
+    logo: profile.jpg
+
+    tools:
+      - icon: envelope
+        href: mailto:ziy048@ucsd.edu
+      - icon: linkedin
+        href: https://www.linkedin.com/in/zixiaoyan
+      - icon: github
+        href: https://github.com/ziayan-analytics
+
+format:
+  html:
+    theme: cosmo
+
+
